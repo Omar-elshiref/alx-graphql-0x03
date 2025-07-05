@@ -9,3 +9,7 @@ Objective: Integrate the ErrorBoundary component into your Next.js application b
 # 2. Create a Component to Test ErrorBoundary
 
 Objective: Develop a simple component that intentionally throws an error to test the ErrorBoundary functionality.
+
+# 3. Monitor and Log Errors
+
+Objective: Integrate an error monitoring service (e.g., Sentry) into the ErrorBoundary to log errors.
